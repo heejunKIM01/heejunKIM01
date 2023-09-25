@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8181F7,100:2E2EFE&text=HeeJun%20Kim&animation=fadeIn&fontSize=50&height=200&fontAlign=50&fontAlignY=50&fontColor=FFFFFF)
-
 ## Hi, there! I'm HeeJun Kim
 - 🧑‍💻 I'm a front-end developer.
 - 🔭 I specialize in Vue.js and Nuxt.js for web development.
